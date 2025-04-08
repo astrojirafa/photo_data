@@ -1,0 +1,1 @@
+Este repositorio contiene el algoritmo utilizado para normalizar los datos fotométricos. Previamente los datos espectroscópicos deben ser normalizados y extraído sus respectivos identificadores (MJD, FIBERID, PLATE).
